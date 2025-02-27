@@ -41,3 +41,5 @@ print(latte_number, 'Latte(s) at $7 each: $' ,latte_number * latte_price)
 print('6% tax:' ,tax)
 
 print('$' ,total)
+
+print("Thanks for coming to the Quick Stop! We can't wait for your next visit!")
