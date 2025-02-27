@@ -26,6 +26,8 @@ print(coffee_number, 'Coffee(s) at $5 each: $' ,coffee_number * coffee_price)
 
 print(muffin_number, 'Muffin(s) at $4 each: $' ,muffin_number * muffin_price)
 
+print("Thanks for coming to the Quick Stop! We can't wait for your next visit!")
+
 print('6% tax:' ,tax)
 
 print('$' ,total)
